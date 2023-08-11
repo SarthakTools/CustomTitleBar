@@ -1,5 +1,5 @@
 from tkinter import *
-import customtkinter as ct
+# import customtkinter as ct
 from PIL import Image, ImageTk
 from ctypes import windll
 import cProfile
